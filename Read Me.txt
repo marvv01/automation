@@ -1,0 +1,5 @@
+=====Networking ==========
+
+To make calculating IP Addresses easy, such as number of hosts, subnet masks, network address 
+
+you dont need to start converting to binaries and the likes. Just run the code and it is all sorted 
